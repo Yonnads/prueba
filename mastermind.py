@@ -1,4 +1,4 @@
-
+a = b
 import random
 
 CANT_DIGITOS =5
